@@ -4,7 +4,7 @@ Daily sign-in automation with auto exchange, deployed on GitHub Actions.
 
 ## Features
 
-- Automated daily sign-in via GitHub Actions (Beijing 03:26, UTC 19:26)
+- Automated daily sign-in via GitHub Actions  (Beijing 03:26, UTC 19:26)
 - Two-domain rotation: glados.cloud → glados.one
 - Points query and auto-exchange (plan100 / plan200 / plan500)
 - All logs displayed in Beijing time
