@@ -21,7 +21,7 @@ Daily sign-in automation with auto exchange, deployed on GitHub Actions.
 ## Notification
 
 - At least one domain succeeds → no notification
-- Both domains fail → GitHub creates an Issue automatically and sends an email to your account's email address
+- Both domains fail → GitHub creates an Issue automatically and sends an email to your account's email 地址
 
 ## Credits
 
